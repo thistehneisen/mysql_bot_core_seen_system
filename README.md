@@ -4,8 +4,8 @@ Seen System for MySQL Bot Core
 This is a module for MySQL Bot Core system.
 You'll need https://github.com/thistehneisen/mysql_bot_core in order for this to work.
 
-[quote][12:02] <Neisen> !seen wubwubwub
-[12:02] -#DEV-SQL- Last seen wubwubwub before 34secs changing nickname to Hawkee[/quote]
+[12:02] <Neisen> !seen wubwubwub
+[12:02] -#DEV-SQL- Last seen wubwubwub before 34secs changing nickname to Hawkee
 
 MySQL Database Structure:
 
